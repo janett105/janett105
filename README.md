@@ -1,6 +1,6 @@
 ## 🔎 Research Interest
 
-----------------------
+---
 
 - Computational Neuroscience
 - Graph Theory & Graph Neural Network
@@ -10,7 +10,7 @@
 
 # 🛠️ Skills
 
-----------------------
+---
 
 **Major**
 
@@ -36,7 +36,7 @@
 
 # 🎓 **Education**
 
-----------------------
+---
 
 **B.S (2021~2024) :** Kyung Hee Univ. Computer Engineering
 
@@ -48,7 +48,7 @@
 
 # 🔭 Projects
 
-----------------------
+---
 
 ### Brain
 
