@@ -1,5 +1,4 @@
-### 🔎 Research Interest
-
+## 🔎 Research Interest
 ----------------------
 
 - Computational Neuroscience
@@ -9,7 +8,7 @@
 - Default Mode Network
 
 # 🛠️ Skills
----
+----------------------
 
 **Major**
 
@@ -35,7 +34,7 @@
 
 # 🎓 **Education**
 
----
+----------------------
 
 **B.S (2021~2024) :** Kyung Hee Univ. Computer Engineering
 
@@ -46,8 +45,7 @@
 
 
 # 🔭 Projects
-
----
+----------------------
 
 ### Brain
 
