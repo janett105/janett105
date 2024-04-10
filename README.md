@@ -1,4 +1,5 @@
 ## 🔎 Research Interest
+
 ----------------------
 
 - Computational Neuroscience
@@ -8,6 +9,7 @@
 - Default Mode Network
 
 # 🛠️ Skills
+
 ----------------------
 
 **Major**
@@ -45,6 +47,7 @@
 
 
 # 🔭 Projects
+
 ----------------------
 
 ### Brain
