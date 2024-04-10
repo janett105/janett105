@@ -8,8 +8,6 @@
 
 # 🛠️ Skills
 
----
-
 **Major**
 
 - MRI data preprocessing & Analysis
@@ -34,8 +32,6 @@
 
 # 🎓 **Education**
 
----
-
 **B.S (2021~2024) :** Kyung Hee Univ. Computer Engineering
 
 **Research Intern (2023 Fall~ )** : [AIMS(Artificial Intelligence in Medicine and (Neuro)Science) Lab](https://sites.google.com/view/khu-aims/home/)
@@ -45,8 +41,6 @@
 
 
 # 🔭 Projects
-
----
 
 ### Brain
 
