@@ -1,7 +1,5 @@
 ## 🔎 Research Interest
 
----
-
 - Computational Neuroscience
 - Graph Theory & Graph Neural Network
 - model-based fMRI
