@@ -6,30 +6,6 @@
 - Brain-inspired AI
 - Default Mode Network
 
-# 🛠️ Skills
-
-**Major**
-
-- MRI data preprocessing & Analysis
-- Python
-- Pytorch
-
-**Intermediate**
-
-- C++
-- MATLAB
-
-**Basic**
-
-- C#
-- Unity
-- The Virtual Brain
-- Conn2res
-
-▫️[The Virtual Brain (Website)](https://www.thevirtualbrain.org/tvb/zwei) : dynamics simulation tool of resting-state brain network
-
-▫️[Conn2res (Github)](https://github.com/netneurolab/conn2res) : dynamics simulation tool of task-driven brain network
-
 # 🎓 **Education**
 
 **B.S (2021~2024) :** Kyung Hee Univ. Computer Engineering
