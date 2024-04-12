@@ -12,9 +12,7 @@
 
 **Research Intern (2023 Fall~ )** : [AIMS(Artificial Intelligence in Medicine and (Neuro)Science) Lab](https://sites.google.com/view/khu-aims/home/)
 
-**Total GPA :**  4.1/4.3   [4.3/4.5]
-
-**Major GPA :**   4.1/4.3   [4.3/4.5]
+**Total GPA :**  4.1/4.3   [4.3/4.5]      **Major GPA :**   4.1/4.3   [4.3/4.5]
 
 
 # 🔭 Projects
