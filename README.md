@@ -8,7 +8,7 @@
 
 # 🎓 **Education**
 
-**B.S (2021~2024) :** Kyung Hee Univ. Computer Engineering
+**B.S (2021~) :** Kyung Hee Univ. Computer Engineering
 
 **Total GPA :**  4.1/4.3   [4.3/4.5]   &emsp;  **Major GPA :**   4.1/4.3   [4.3/4.5]
 
