@@ -2,7 +2,7 @@
 
 - Computational Neuroscience
 - Graph Theory & Graph Neural Network
-- model-based fMRI
+- model-based MRI
 - Brain-inspired AI
 - Default Mode Network
 
