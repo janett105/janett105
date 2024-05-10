@@ -20,7 +20,7 @@
 ### Brain
 
 - BCSC 아이디어 해커톤 : 도시에 창궐하는 쥐떼 유인 시스템 설계, 2위 (2024)
-- 한국 계산뇌과학학회 겨울학교 : V1 simple cell matching based on spike signal dataset, 3위 (2024)
+- 한국 계산뇌과학학회 겨울학교 : V1 simple cell matching based on spike signal dataset (2024)
 - Functional MRI 기반 다양한 graph measures 활용한 cognition score 예측 (2024~)
 - Functional MRI 기반 그래프 신경망을 활용한 조현병 진단 모델 개발 (2024~)
 
