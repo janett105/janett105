@@ -31,8 +31,8 @@
 - 논밭 조류 퇴치 시스템 설계 (2022)
 - 온도, 진동 체감형 마법전투 VR 컨텐츠 제작 (2023)
 - KHU 컴퓨터공학과 대회 2위 (2023)
-- Causal 추론이 가능한 데이터 효율적인 골다공증 분류 모델 개발 (2024~)
-- cloud computing 기술 활용한 DropBox application 개발 (2024~)
+- Causal 추론이 가능한 데이터 효율적인 골다공증 분류 모델 개발 (2024)
+- cloud computing 기술 활용한 DropBox application 개발 (2024)
 
 ### Business
 
