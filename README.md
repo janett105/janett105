@@ -12,7 +12,7 @@
 
 **Total GPA :**  4.1/4.3   [4.3/4.5]   &emsp;  **Major GPA :**   4.1/4.3   [4.3/4.5]
 
-**Research Intern (2023 Fall~ )** : [AIMS(Artificial Intelligence in Medicine and (Neuro)Science) Lab](https://sites.google.com/view/khu-aims/home/)
+**Research Intern (2023 Fall ~ 2024 Fall)** : [AIMS(Artificial Intelligence in Medicine and (Neuro)Science) Lab](https://sites.google.com/view/khu-aims/home/)
 
 
 # 🔭 Projects
@@ -21,8 +21,8 @@
 
 - BCSC 아이디어 해커톤 : 도시에 창궐하는 쥐떼 유인 시스템 설계, 2위 (2024)
 - 한국 계산뇌과학학회 겨울학교 : V1 simple cell matching based on spike signal dataset (2024)
-- Functional MRI 기반 다양한 graph measures 활용한 cognition score 예측 (2024~)
-- Functional MRI 기반 그래프 신경망을 활용한 조현병 진단 모델 개발 (2024~)
+- Functional MRI 기반 다양한 graph measures 활용한 cognition score 예측, KCC학회 학부생 포스터 발표 장려상 (2024)
+- Functional MRI 기반 그래프 신경망을 활용한 조현병 진단 모델 개발 (2024)
 
 ### Programming
 
