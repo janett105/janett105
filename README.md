@@ -14,6 +14,7 @@
 
 **Research Intern (2023 Fall ~ 2024 Fall)** : [AIMS(Artificial Intelligence in Medicine and (Neuro)Science) Lab](https://sites.google.com/view/khu-aims/home/)
 
+**Research Intern (2024 Fall ~ )** : [CoCo(Computational Cognitive Neuroscience) Lab](https://yulkanglab.org/)
 
 # 🔭 Projects
 
