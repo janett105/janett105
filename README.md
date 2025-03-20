@@ -19,12 +19,12 @@
 # 🔭 Projects
 
 ### Brain
-
+- sleep drive 
+- Functional MRI 기반 다양한 graph measures 활용한 cognition score 예측, KCC학회 학부생 포스터 발표 장려상 (2024) [KCC2024](https://www.kiise.or.kr/academy/board/academyNewsView.fa?
 - BCSC 아이디어 해커톤 : 도시에 창궐하는 쥐떼 유인 시스템 설계, 2위 (2024)
 - 한국 계산뇌과학학회 겨울학교 : V1 simple cell matching based on spike signal dataset (2024)
-- Functional MRI 기반 다양한 graph measures 활용한 cognition score 예측, KCC학회 학부생 포스터 발표 장려상 (2024) [KCC2024](https://www.kiise.or.kr/academy/board/academyNewsView.fa?MENU_ID=080100&sch_add_bd=%ED%95%99%ED%9A%8C%EC%86%8C%EC%8B%9D&NUM=2594)
-- 
-- Functional MRI 기반 그래프 신경망을 활용한 조현병 진단 모델 개발 (2024)
+MENU_ID=080100&sch_add_bd=%ED%95%99%ED%9A%8C%EC%86%8C%EC%8B%9D&NUM=2594)
+- Functional MRI 기반 그래프 신경망을 활용한 조현병 진단 모델 개발 프로젝트(2024)
 
 ### Programming
 
